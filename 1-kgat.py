@@ -1,3 +1,9 @@
+# ==============================================
+# 版权所有 © [2026] [Jing Wang]
+# 禁止盗用、修改、商用，未经授权禁止一切使用
+# Copyright (c) [2026] [Jing Wang]. All Rights Reserved.
+# ==============================================
+
 import os
 import numpy as np
 import pandas as pd
